@@ -1,0 +1,5 @@
+1.Create React App using Boilerplate
+2.Create Azure Repository
+3.CLone and Deploy code to Azure Repo
+4.Create Azure Resource
+5.Create Azure App Service
