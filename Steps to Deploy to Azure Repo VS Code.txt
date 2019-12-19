@@ -1,0 +1,5 @@
+1.Commit chnages to local repo
+2.Press Ctrl + Shift + P
+3.Select Git Push
+4.Copy Password rom portal
+5.Paste and check commits in portal
